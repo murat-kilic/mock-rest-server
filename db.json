@@ -25,34 +25,16 @@
         "currency_code": "USD",
         "country_code": "US",
         "status": "CLO",
-
-        //     ...
-
         "customer_token": "cus_f7f818996c5cff475839fc2b5edf985a",
         "payment_method": "card_1bdfe1b70af665004da098f8bd859282",
         "expiration": 0,
         "captured": true,
-
-        //     ...
-
         "error_payment_url": "https://error_example.net",
-
-        //     ...
-
         "created_at": 1581235148,
-
-        //     ...
-
         "paid": true,
         "paid_at": 1581235148,
-
-        //     ...
-
         "payment_method_type": "us_debit_visa_card",
-        "payment_method_type_category": "card",
-
-        //     ...
-
+        "payment_method_type_category": "card"
     }
 }
 }
